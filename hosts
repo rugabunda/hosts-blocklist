@@ -13,6 +13,7 @@
 0.0.0.0 www.buglife.com #ios telemetry
 0.0.0.0 mobile.webvisor.com #mobile app beacon
 0.0.0.0 u.startup.mobile.webvisor.com #mobile app beacon
+0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 app.secureprivacy.ai
 0.0.0.0 api.zype.com
 0.0.0.0 image.zype.com
