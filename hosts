@@ -8,6 +8,12 @@
 #Updated: 25 Sep 2019
 #LatestVersion 0.9.2
 #---------------------
+
+0.0.0.0 www.google.com #spyware
+0.0.0.0 play.googleapis.com #spyware
+0.0.0.0 device-provisioning.googleapis.com #spyware
+0.0.0.0 plus.google.com #spyware
+
 0.0.0.0 fbsbx.com
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
 0.0.0.0 www.buglife.com #ios telemetry
