@@ -12,7 +12,7 @@
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
 0.0.0.0 www.buglife.com #ios telemetry
 0.0.0.0 mobile.webvisor.com #Yandex Metrica's Webvisor records users' actions on your site and plays them back to you as a video
-0.0.0.0 u.startup.mobile.webvisor.com #mobile app beacon
+0.0.0.0 u.startup.mobile.webvisor.com #https://yandex.com/blog/metrica/webvisor-2-0-is-coming-soon
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 getadhell.com
 0.0.0.0 turbodl.surge.sh
