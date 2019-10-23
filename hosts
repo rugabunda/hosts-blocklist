@@ -17,6 +17,7 @@
 0.0.0.0 fbsbx.com
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
 0.0.0.0 www.buglife.com #ios telemetry
+0.0.0.0 startup.mobile.yandex.net #Webvisor tracks everything you do and plays it back as video
 0.0.0.0 mobile.webvisor.com #Yandex Metrica's Webvisor records users' actions in browser and plays telemetry back as video
 0.0.0.0 u.startup.mobile.webvisor.com #https://yandex.com/blog/metrica/webvisor-2-0-is-coming-soon
 0.0.0.0 startup.mobile.webvisor.com #Yandex Metrica's Webvisor  steals your passwords https://www.certificationanswers.com/en/does-webvisor-record-passwords-entered-by-a-site-user/amp/
