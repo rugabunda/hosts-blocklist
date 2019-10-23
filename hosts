@@ -13,6 +13,7 @@
 0.0.0.0 play.googleapis.com #spyware, app related
 0.0.0.0 device-provisioning.googleapis.com #spyware, app related
 0.0.0.0 plus.google.com #spyware, app related
+0.0.0.0 connect.facebook.com
 
 0.0.0.0 fbsbx.com
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
