@@ -11,7 +11,7 @@
 0.0.0.0 fbsbx.com
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
 0.0.0.0 www.buglife.com #ios telemetry
-0.0.0.0 mobile.webvisor.com #Yandex Metrica's Webvisor records users' actions and plays them back as a video
+0.0.0.0 mobile.webvisor.com #Yandex Metrica's Webvisor records users' actions in browser and plays them back as a video
 0.0.0.0 u.startup.mobile.webvisor.com #https://yandex.com/blog/metrica/webvisor-2-0-is-coming-soon
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 getadhell.com
