@@ -10,7 +10,7 @@
 #---------------------
 
 0.0.0.0 www.google.com #spyware, drops nid tracking cookie in countless apps and sites
-0.0.0.0 play.googleapis.com #spyware, app related
+0.0.0.0 play.googleapis.com #IOS spyware, app related
 0.0.0.0 device-provisioning.googleapis.com #spyware, app related
 0.0.0.0 plus.google.com #spyware, app related
 0.0.0.0 connect.facebook.com
