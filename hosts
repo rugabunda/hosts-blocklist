@@ -17,6 +17,9 @@
 0.0.0.0 getadhell.com
 0.0.0.0 turbodl.surge.sh
 0.0.0.0 mobile-preprod.audible.com
+0.0.0.0 firebaselogging.googleapis.com #google firebase backdoor telemetey
+0.0.0.0 reports.crashlytics.com #google firebase backdoor telemetey
+
 
 0.0.0.0 app.secureprivacy.ai
 0.0.0.0 api.zype.com
