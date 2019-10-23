@@ -14,15 +14,16 @@
 0.0.0.0 mobile.webvisor.com #mobile app beacon
 0.0.0.0 u.startup.mobile.webvisor.com #mobile app beacon
 0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 getadhell.com
+0.0.0.0 turbodl.surge.sh
+0.0.0.0 mobile-preprod.audible.com
+
 0.0.0.0 app.secureprivacy.ai
 0.0.0.0 api.zype.com
 0.0.0.0 image.zype.com
 0.0.0.0 s.mzstatic.com
 0.0.0.0 apps.mzstatic.com
 0.0.0.0 apps.identrust.com
-0.0.0.0 getadhell.com
-0.0.0.0 turbodl.surge.sh
-
 
 0.0.0.0 1kdailyprofit.biz #Scam
 0.0.0.0 1kdailyprofit.co #Scam
