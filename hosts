@@ -21,6 +21,7 @@
 0.0.0.0 reports.crashlytics.com #google firebase backdoor telemetey
 0.0.0.0 e.crashlytics.com #never a crash, Crashlytics is Google-owned backdoor telemetry
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
+0.0.0.0 mononoteapp.firebaseio.com #firebase google telemetry, wildcard block firebase
 
 0.0.0.0 app.secureprivacy.ai
 0.0.0.0 api.zype.com
