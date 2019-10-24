@@ -9,6 +9,14 @@
 #LatestVersion 0.9.2
 #---------------------
 
+#testing0
+0.0.0.0 app.secureprivacy.ai
+0.0.0.0 api.zype.com
+0.0.0.0 image.zype.com
+#0.0.0.0 s.mzstatic.com #apple
+#0.0.0.0 apps.mzstatic.com #apple
+0.0.0.0 apps.identrust.com
+
 #testing
 0.0.0.0 storage.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
@@ -58,12 +66,6 @@
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 
-0.0.0.0 app.secureprivacy.ai
-0.0.0.0 api.zype.com
-0.0.0.0 image.zype.com
-0.0.0.0 s.mzstatic.com
-0.0.0.0 apps.mzstatic.com
-0.0.0.0 apps.identrust.com
 
 0.0.0.0 1kdailyprofit.biz #Scam
 0.0.0.0 1kdailyprofit.co #Scam
