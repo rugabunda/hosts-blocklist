@@ -10,9 +10,9 @@
 #---------------------
 
 #testing0
-0.0.0.0 app.secureprivacy.ai
-0.0.0.0 api.zype.com
-0.0.0.0 image.zype.com
+#0.0.0.0 app.secureprivacy.ai
+#0.0.0.0 api.zype.com #video streaming
+#0.0.0.0 image.zype.com #video steaming
 #0.0.0.0 s.mzstatic.com #apple
 #0.0.0.0 apps.mzstatic.com #apple
 0.0.0.0 apps.identrust.com
