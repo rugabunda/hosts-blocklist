@@ -40,6 +40,7 @@
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net #Flurry.com yahoos app analytics for Android & iOS
 0.0.0.0 mononoteapp.firebaseio.com #firebase google telemetry for just mononote app, wildcard block *firebase*
 0.0.0.0 onesignal.com #telemetry/marketing
+0.0.0.0 stats.adlice.com #statistics for adlice windows apps
 
 #ads
 
