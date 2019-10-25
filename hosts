@@ -15,7 +15,7 @@
 #0.0.0.0 image.zype.com #video steaming
 #0.0.0.0 s.mzstatic.com #apple
 #0.0.0.0 apps.mzstatic.com #apple
-0.0.0.0 apps.identrust.com
+#0.0.0.0 apps.identrust.com #bankster cert & letsencrypt certs
 
 #testing
 0.0.0.0 storage.googleapis.com
