@@ -21,7 +21,7 @@
 
 #telemetey/spyware/analytics, the overlooked privacy danger in mobile apps.
 
-0.0.0.0 s.update.fbsbx.com  #facebook telemetery
+0.0.0.0 s.update.fbsbx.com  #facebook analytics,  a CNAME to s.agentanalytics.com https://www.robtex.com/dns-lookup/s.update.fbsbx.com
 0.0.0.0 www.buglife.com #ios/android telemetry web bug/beacon
 0.0.0.0 startup.mobile.yandex.net #Webvisor tracks everything you do and plays it back as video
 0.0.0.0 mobile.webvisor.com #Yandex Metrica's Webvisor records users' actions in browser and plays telemetry back as video
