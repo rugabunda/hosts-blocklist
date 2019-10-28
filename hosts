@@ -39,6 +39,14 @@
 0.0.0.0 stats.adlice.com #statistics for legit adlice windows apps
 0.0.0.0 id.sputniknews.com #identifier
 
+# nVidia Telemetry
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 gfe.geforce.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com 
+
 #ads
 0.0.0.0 a.0e4b0abb1f69821da471689f323e049b.com #Appodeal ads https://a.0e4b0abb1f69821da471689f323e049b.com/home/
 0.0.0.0 a.04ee395e5b8a076c7bd8592851ff8cad.com #Appodeal ads, a.*.com for wildcard
