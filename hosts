@@ -9,7 +9,7 @@
 #LatestVersion 0.9.2
 #---------------------
 
-#testing, used by many "offline only" purposed apps like notepads
+#testing, used by many "offline only" purposed mobile apps like notepads
 0.0.0.0 storage.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 device-provisioning.googleapis.com
