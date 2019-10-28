@@ -9,12 +9,6 @@
 #LatestVersion 0.9.2
 #---------------------
 
-#testing0
-#0.0.0.0 app.secureprivacy.ai
-#0.0.0.0 s.mzstatic.com #apple
-#0.0.0.0 apps.mzstatic.com #apple
-#0.0.0.0 apps.identrust.com #bankster cert & letsencrypt certs
-
 #testing, used by many "offline only" purposed apps like notepads
 0.0.0.0 storage.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
@@ -25,8 +19,7 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 fbsbx.com
 
-
-#telemetey/spyware... analytics, the privacy danger in mobile apps.
+#telemetey/spyware/analytics, the overlooked privacy danger in mobile apps.
 
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
 0.0.0.0 www.buglife.com #ios/android telemetry web bug/beacon
