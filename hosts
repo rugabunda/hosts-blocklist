@@ -41,6 +41,9 @@
 0.0.0.0 id.sputniknews.com #identifier
 
 #ads
+0.0.0.0 a.0e4b0abb1f69821da471689f323e049b.com #Appodeal ads https://a.0e4b0abb1f69821da471689f323e049b.com/home/
+0.0.0.0 a.04ee395e5b8a076c7bd8592851ff8cad.com #Appodeal ads
+0.0.0.0 a.ab90be9135de1428ae387956ebd06722.com #Appodeal ads
 
 0.0.0.0 aax-us-east.amazon-adsystem.com #amazon ads
 0.0.0.0 aax-eu.amazon-adsystem.com
