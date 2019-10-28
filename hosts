@@ -47,6 +47,11 @@
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com 
 
+#avast telem
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 shepherd.sb.avast.com
+0.0.0.0 analytics.ff.avast.com 
+
 #ads
 0.0.0.0 a.0e4b0abb1f69821da471689f323e049b.com #Appodeal ads https://a.0e4b0abb1f69821da471689f323e049b.com/home/
 0.0.0.0 a.04ee395e5b8a076c7bd8592851ff8cad.com #Appodeal ads, a.*.com for wildcard
@@ -75,6 +80,7 @@
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 
+#Start NoTrack Tracker + Malware Blocklist merged
 
 0.0.0.0 1kdailyprofit.biz #Scam
 0.0.0.0 1kdailyprofit.co #Scam
