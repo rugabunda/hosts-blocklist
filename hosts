@@ -15,11 +15,13 @@
 #0.0.0.0 apps.mzstatic.com #apple
 #0.0.0.0 apps.identrust.com #bankster cert & letsencrypt certs
 
-#testing
+#testing, used by many "offline only" purposed apps like notepads
 0.0.0.0 storage.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 device-provisioning.googleapis.com
 0.0.0.0 plus.google.com
+
+# fb tracking/telemetry
 0.0.0.0 connect.facebook.com
 0.0.0.0 fbsbx.com
 
