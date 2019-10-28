@@ -24,16 +24,17 @@
 0.0.0.0 fbsbx.com
 
 
-#telemetey/spyware
+#telemetey/spyware... analytics, the unseen privacy danger in mobile apps.
+
 0.0.0.0 s.update.fbsbx.com  #facebook telemetery
-0.0.0.0 www.buglife.com #ios/android telemetry web bug
+0.0.0.0 www.buglife.com #ios/android telemetry web bug/beacon
 0.0.0.0 startup.mobile.yandex.net #Webvisor tracks everything you do and plays it back as video
 0.0.0.0 mobile.webvisor.com #Yandex Metrica's Webvisor records users' actions in browser and plays telemetry back as video
 0.0.0.0 u.startup.mobile.webvisor.com #https://yandex.com/blog/metrica/webvisor-2-0-is-coming-soon
 0.0.0.0 startup.mobile.webvisor.com #Yandex Metrica's Webvisor  steals your passwords https://www.certificationanswers.com/en/does-webvisor-record-passwords-entered-by-a-site-user/amp/
 0.0.0.0 firebaselogging.googleapis.com #google firebase backdoor telemetey
-0.0.0.0 reports.crashlytics.com #google firebase backdoor telemetey
-0.0.0.0 e.crashlytics.com #never a crash, google-owned backdoor telemetry
+0.0.0.0 reports.crashlytics.com #even with no crash, google firebase backdoor telemetey/beacon
+0.0.0.0 e.crashlytics.com #never a crash, google-owned backdoor telemetry/beacon
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net #Flurry.com yahoos app analytics for Android & iOS
 0.0.0.0 mononoteapp.firebaseio.com #firebase google telemetry for just mononote app, wildcard block *firebase*
 0.0.0.0 onesignal.com #telemetry/marketing
