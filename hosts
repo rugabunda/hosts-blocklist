@@ -35,7 +35,9 @@
 0.0.0.0 id.sputniknews.com #identifier
 
 # nVidia Telemetry
+
 0.0.0.0 activation-dc1.gfe.nvidia.com
+0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 download.gfe.nvidia.com
 0.0.0.0 download-dc1.gfe.nvidia.com
 0.0.0.0 download-dce-2.gfe.nvidia.com
