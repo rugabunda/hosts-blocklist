@@ -35,12 +35,21 @@
 0.0.0.0 id.sputniknews.com #identifier
 
 # nVidia Telemetry
-0.0.0.0 gfwsl.geforce.com
-0.0.0.0 gfe.geforce.com
-0.0.0.0 telemetry.nvidia.com
-0.0.0.0 gfe.nvidia.com
-0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 activation-dc1.gfe.nvidia.com
+0.0.0.0 download.gfe.nvidia.com
+0.0.0.0 download-dc1.gfe.nvidia.com
+0.0.0.0 download-dce-2.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com 
+0.0.0.0 events-dc1-2.gfe.nvidia.com
+0.0.0.0 events-temp.gfe.nvidia.com
+0.0.0.0 gfe.geforce.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 telemetry-dce.gfe.nvidia.com
 
 #avast telem
 0.0.0.0 ip-info.ff.avast.com
