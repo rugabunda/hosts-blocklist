@@ -63,6 +63,19 @@
 0.0.0.0 a.04ee395e5b8a076c7bd8592851ff8cad.com #Appodeal ads, a.*.com for wildcard
 0.0.0.0 a.ab90be9135de1428ae387956ebd06722.com #Appodeal ads
 
+#amazon ads
+0.0.0.0 ads.ad-center.com #https://www.robtex.com/dns-lookup/ads.ad-center.com
+0.0.0.0 cdn2.ad-center.com
+0.0.0.0 www.ad-center.com
+0.0.0.0 ec2-46-137-77-217.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-46-137-110-83.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-54-243-100-198.compute-1.amazonaws.com
+0.0.0.0 ec2-175-41-141-63.ap-southeast-1.compute.amazonaws.com
+0.0.0.0 ec2-175-41-150-101.ap-southeast-1.compute.amazonaws.com
+0.0.0.0 ec2-176-34-182-24.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-184-169-151-9.us-west-1.compute.amazonaws.com
+0.0.0.0 ec2-184-169-178-22.us-west-1.compute.amazonaws.com
+
 0.0.0.0 aax-us-east.amazon-adsystem.com #amazon ads
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
