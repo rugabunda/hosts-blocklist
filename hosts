@@ -1,12 +1,7 @@
-#Title: NoTrack Tracker + Malware Blocklist merged + rugabunda custom
-#Description: Tracker Domains Block List from quidsup.net
-#Author: QuidsUp
-#License: GNU General Public License v3.0
+#Title: rugabunda custom
+#Author: rugabunda
 #Home: https://quidsup.net/notrack/blocklist.php
-#@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 #Updated: 24 Oct 2019
-#LatestVersion 0.9.2
 #---------------------
 
 #testing, used by many "offline only" purposed mobile apps like notepads
