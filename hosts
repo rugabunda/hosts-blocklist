@@ -11,6 +11,7 @@
 
 #testing, used by many "offline only" purposed mobile apps like notepads
 0.0.0.0 storage.googleapis.com
+0.0.0.0 bucket.storage.googleapis.com
 0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 device-provisioning.googleapis.com
 0.0.0.0 plus.google.com
@@ -51,6 +52,11 @@
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 shepherd.sb.avast.com
 0.0.0.0 analytics.ff.avast.com 
+
+#eset
+0.0.0.0 edf.eset.com #bad cert, microsoft azure cloud, appears to be unecessary, CNAME redirects to edfpcs.trafficmanager.net
+0.0.0.0 gallup.eset.com #telemetry
+
 
 #ads
 0.0.0.0 a.0e4b0abb1f69821da471689f323e049b.com #Appodeal ads https://a.0e4b0abb1f69821da471689f323e049b.com/home/
