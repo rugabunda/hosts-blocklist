@@ -22,7 +22,7 @@
 
 #telemetey/spyware/analytics, the overlooked privacy danger in mobile apps.
 
-0.0.0.0 s.update.fbsbx.com  #facebook outcontracted analytics,  a CNAME to s.agentanalytics.com https://www.robtex.com/dns-lookup/s.update.fbsbx.com
+0.0.0.0 s.update.fbsbx.com  #facebook outcontracted analytics, redirects (CNAME) to s.agentanalytics.com https://www.robtex.com/dns-lookup/s.update.fbsbx.com
 0.0.0.0 post.update.fbsbx.com #facebook outcontracted analytics, a CNAME to agentanalytics.com
 0.0.0.0 t.update.fbsbx.com #facebook outcontracted analytics, a CNAME to t.agentanalytics.com
 
@@ -54,7 +54,7 @@
 0.0.0.0 analytics.ff.avast.com 
 
 #eset
-0.0.0.0 edf.eset.com #bad cert, microsoft azure cloud, appears to be unecessary, CNAME redirects to edfpcs.trafficmanager.net
+0.0.0.0 edf.eset.com #bad cert, microsoft azure cloud, appears to be unecessary, CNAME redirects to edfpcs.trafficmanager.net, https://support.eset.com/kb332/#telemetry
 0.0.0.0 gallup.eset.com #telemetry
 
 
