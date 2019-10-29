@@ -49,7 +49,7 @@
 0.0.0.0 analytics.ff.avast.com 
 
 #eset
-0.0.0.0 edf.eset.com #bad cert, microsoft azure cloud, appears to be unecessary, CNAME redirects to edfpcs.trafficmanager.net, https://support.eset.com/kb332/#telemetry
+0.0.0.0 edf.eset.com #bad cert, (test in broweser) microsoft azure cloud, appears to be unecessary for functionality, CNAME redirects to edfpcs.trafficmanager.net, https://support.eset.com/kb332/#telemetry
 0.0.0.0 gallup.eset.com #telemetry
 
 
