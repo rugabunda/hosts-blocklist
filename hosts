@@ -76,6 +76,7 @@
 0.0.0.0 ec2-184-169-151-9.us-west-1.compute.amazonaws.com
 0.0.0.0 ec2-184-169-178-22.us-west-1.compute.amazonaws.com
 
+#diversion adblocker ads
 0.0.0.0 aax-us-east.amazon-adsystem.com #amazon ads
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
