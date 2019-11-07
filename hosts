@@ -70,17 +70,60 @@
 0.0.0.0 report.admetricspro.com
 
 #amazon ads
-0.0.0.0 ads.ad-center.com #https://www.robtex.com/dns-lookup/ads.ad-center.com
-0.0.0.0 cdn2.ad-center.com
-0.0.0.0 www.ad-center.com
-0.0.0.0 ec2-46-137-77-217.eu-west-1.compute.amazonaws.com
-0.0.0.0 ec2-46-137-110-83.eu-west-1.compute.amazonaws.com
-0.0.0.0 ec2-54-243-100-198.compute-1.amazonaws.com
-0.0.0.0 ec2-175-41-141-63.ap-southeast-1.compute.amazonaws.com
-0.0.0.0 ec2-175-41-150-101.ap-southeast-1.compute.amazonaws.com
-0.0.0.0 ec2-176-34-182-24.eu-west-1.compute.amazonaws.com
-0.0.0.0 ec2-184-169-151-9.us-west-1.compute.amazonaws.com
-0.0.0.0 ec2-184-169-178-22.us-west-1.compute.amazonaws.com
+#cnames to ads.ad-center.com
+
+127.0.0.1 look.utnldn.com
+127.0.0.1 look.kfioplkn.com
+127.0.0.1 look.ichlnk.com
+127.0.0.1 look.udncoeln.com
+127.0.0.1 look.fjfiln.com
+127.0.0.1 look.ufinkln.com
+127.0.0.1 hlok.qertewrt.com
+127.0.0.1 look.opskln.com
+127.0.0.1 look.ichlnk.com
+127.0.0.1 look.ufinkln.com
+127.0.0.1 look.utndln.com
+127.0.0.1 look.djfiln.com
+127.0.0.1 look.kfiopkln.com
+127.0.0.1 look.udncoeln.com
+
+127.0.0.1 ads.ad-center.com
+127.0.0.1 cdn1.ad-center.com
+127.0.0.1 cdn2.ad-center.com
+127.0.0.1 ads4.ad-center.com
+127.0.0.1 ads.ad-center.com
+127.0.0.1 ads-script.ad-center.com
+127.0.0.1 www.ad-center.com
+
+127.0.0.1 #these are closely associated and or interacting directly with ad-center https://threatcrowd.org/domain.php?domain=pwwysydh.com
+127.0.0.1 pwwysydh.com
+127.0.0.1 piz7ohhujogi.com
+
+127.0.0.1 prjcq.com
+127.0.0.1 pocofh.com
+127.0.0.1 npmpecd.com
+127.0.0.1 pt21na.com
+127.0.0.1 pwdplz.com
+127.0.0.1 pohs2oom.com
+127.0.0.1 ps4ux.com
+127.0.0.1 jadserve.postrelease.com
+127.0.0.1 docaz.net
+127.0.0.1 prjcq.com
+127.0.0.1 e.serverbid.com
+127.0.0.1 d303resfoavrtt.cloudfront.net
+
+127.0.0.1 #all ptrs for ads.ad-center.com https://www.robtex.com/dns-lookup/ads.ad-center.com
+
+127.0.0.1 ec2-46-137-77-217.eu-west-1.compute.amazonaws.com
+127.0.0.1 ec2-46-137-110-83.eu-west-1.compute.amazonaws.com
+127.0.0.1 ec2-54-243-100-198.compute-1.amazonaws.com
+127.0.0.1 ec2-175-41-141-63.ap-southeast-1.compute.amazonaws.com
+127.0.0.1 ec2-175-41-150-101.ap-southeast-1.compute.amazonaws.com
+127.0.0.1 ec2-176-34-182-24.eu-west-1.compute.amazonaws.com
+127.0.0.1 ec2-184-72-41-50.us-west-1.compute.amazonaws.com
+127.0.0.1 ec2-184-169-151-9.us-west-1.compute.amazonaws.com
+127.0.0.1 ec2-184-169-178-22.us-west-1.compute.amazonaws.com
+127.0.0.1 ec2-184-169-182-88.us-west-1.compute.amazonaws.com
 
 #diversion adblocker ads, must be added to dnscrypt
 0.0.0.0 ads.ad-center.com
